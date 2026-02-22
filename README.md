@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Branson%20Leo&reversal=false&textBg=false&animation=fadeIn&desc=Turning%20Coffee%20into%20Code%20and%20Ideas%20into%20Reality&descSize=18&fontAlign=34&fontAlignY=42&descAlign=33&descAlignY=53"/>
+</p>
+
+<!-- ## Hi there 👋-->
 
 <!--
 **bransonleo/bransonleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
