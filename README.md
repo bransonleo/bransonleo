@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Branson%20Leo&reversal=false&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=50"/>
 </p> -->
 
-<div align='center'>
+<div align="center">
 
 ```
 ██╗  ██╗███████╗██╗   ██╗    ████████╗██╗  ██╗███████╗██████╗ ███████╗
