@@ -1,8 +1,8 @@
-<p align='center'>
+<!-- <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Branson%20Leo&reversal=false&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=50"/>
-</p>
+</p> -->
 
-<div align="center">
+<div align='center'>
 
 ```
 ██╗  ██╗███████╗██╗   ██╗    ████████╗██╗  ██╗███████╗██████╗ ███████╗
@@ -13,6 +13,7 @@
 ╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
 ```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=540&lines=Branson+Leo;ML+%2F+AI+Enthusiast;Turning+Coffee+into+Code+%26+Ideas+into+Reality)](https://git.io/typing-svg)
 </div>
 
 <!-- ## Hi there 👋-->
