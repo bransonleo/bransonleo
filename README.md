@@ -13,7 +13,7 @@
 ╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=540&lines=Branson+Leo;ML+%2F+AI+Enthusiast;Turning+Coffee+into+Code+%26+Ideas+into+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=21&duration=6000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Branson+Leo;ML%2FAI+Enthusiast;Turning+Coffee+into+Code+%26+Ideas+into+Reality)](https://git.io/typing-svg)
 </div>
 
 <!-- ## Hi there 👋-->
